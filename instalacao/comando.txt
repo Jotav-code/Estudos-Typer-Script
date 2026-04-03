@@ -1,0 +1,7 @@
+# npm install -g typesript
+# para compilar um arquivo tsc "tsc nome_do_arquivo.ts"
+
+# Para inserir configurações do ts usamos o comando "tsc --init" ele cria um arquivo ts.config;
+# o target diz pra qual tipo de js o ts vai ser compilado pra compilar agora é so digitar tsc
+# Adicionamos o comando "strict: true", ele não deixa nenhum tipo de any acontecer no nosso código
+# usamos o "tsc -w" para deixar a compilação automatica
